@@ -27,7 +27,7 @@ Ensure you have the following installed:
 ## Installation
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/ola-silicon/data-scraper-all.git
+   git clone <repo-url>
    cd data-scraper-all
    ```
 

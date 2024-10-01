@@ -1,0 +1,11 @@
+csv_file: 'github_repositories.csv' ## put your path of csv file
+checkpoint_file: 'repo_ckpt.pkl'
+output_dir: '' # or your desired local output directory
+num_jobs:  # Number of parallel jobs to execute, the more you increase IO operations will be in queue
+batch_size: 100
+user: 'your_github_username'
+token: 'your_github_access_token'  ##take care to use a trash account
+aws_access_key: 
+aws_secret_key: 
+aws_region: 
+

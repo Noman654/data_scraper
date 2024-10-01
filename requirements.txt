@@ -1,0 +1,8 @@
+requests
+boto3
+pymongo
+selenium
+tqdm
+PyYAML
+aioboto3
+beautifulsoup4
